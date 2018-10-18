@@ -1,0 +1,7 @@
+What is the most used word in all of Shakespeare plays? Was ‘king’ more often used than ‘Lord’ or vice versa?
+
+To answer these type of fun questions, one often needs to quickly examine and plot most frequent words in a text file (often downloaded from open source portals such as Project Gutenberg). However, if you search on the web or on Stackoverflow, you will most probably see examples of nltk and use of CountVectorizer. While they are incredibly powerful and fun to use, the matter of the fact is, you don’t need them if the only thing you want is to extract most common words appearing in a single text corpus.
+
+Below, I am showing a very simple Python 3 code snippet to do just that — using only a dictionary and simple string manipulation methods.
+
+Feel free to copy the code and use your own stopwords to make it better!

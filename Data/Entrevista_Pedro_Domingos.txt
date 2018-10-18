@@ -1,0 +1,369 @@
+“O grande risco da inteligência artificial são máquinas demasiado estúpidas” 
+
+“O grande risco da inteligência
+artificial são máquinas
+demasiado estúpidas”
+O académico Pedro Domingos, autor de A Revolução do
+Algoritmo Mestre, antevê um mundo em que os computadores
+poderão ser capazes de aprender tudo.
+Os computadores já são capazes de
+aprender: analisam enormes quantidades
+de dados e aprendem o que cada um de nós
+quer comprar, o tipo de pessoa por quem
+nos sentimos atraídos, quais os empregos
+que podem ser um bom passo na carreira,
+quais de nós podem vir a ser terroristas.
+O livro A Revolução do Algoritmo Mestre
+(editora Manuscrito), do académico e
+investigador Pedro Domingos, descreve
+como estes algoritmos são usados por
+empresas como a Amazon, o Google e o
+Facebook, e quais os impactos que já estão
+a ter no mundo. E avança para a busca de
+um algoritmo-mestre, um sistema de
+aprendizagem universal capaz de deduzir
+todo o conhecimento, desde que para isso
+seja “alimentado” com a informação
+necessária. Um algoritmo-mestre seria
+capaz tanto de manter o nosso email livre
+de spam como de descobrir curas
+(personalizadas) para cancros. Porém, um
+mundo de máquinas cada vez mais
+inteligentes não está isento de riscos. Para
+que ferramentas muito poderosas não
+estejam escondidas dentro de empresas, o
+autor defende que os utilizadores devem
+conhecer como estes algoritmos funcionam
+e ter uma palavra a dizer na forma como
+são integrados na sociedade.
+Pedro Domingos é professor de Ciências da
+Computação na Universidade de
+Washington. Conversou com o PÚBLICO a
+propósito do lançamento da versão
+portuguesa do livro, que decorreu nesta
+sexta-feira. O original foi publicado há dois
+anos, em inglês, e é – como se faz questão
+de dizer na capa – recomendado por Bill
+Gates.
+Por que é importante para o
+utilizador conhecer a forma como os
+algoritmos de aprendizagem
+funcionam? Já sabemos usar o
+Netflix, a Amazon, o Google.
+Sabemos usá-los para obter o objectivo
+imediato. Mas, ao mesmo tempo que
+estamos a atingir esse objectivo imediato,
+
+estamos a ensinar aos computadores aquilo
+que queremos. É preciso as pessoas
+estarem conscientes disso, para que essa
+aprendizagem dos computadores as sirva,
+para ser eu a decidir e não outros a
+decidirem por mim. A Internet criou este
+mundo de escolha infinita, no qual em vez
+de escolher de dez mil livros numa livraria,
+posso escolher de dez milhões na Amazon.
+Mas quem faz essa escolha? A Amazon. O
+importante é que essa escolha seja feita da
+maneira que eu faria se estivesse a ler os
+livros um a um. A aprendizagem hoje ainda
+é muito imperfeita. Os sistemas fazem
+muitos disparates, recomendações que não
+fazem sentido.
+Estes sistemas são tão abertos que o
+utilizador final pode fazer essa
+diferença? A Amazon e o Netflix
+terão interesse em canalizar o
+utilizador para determinadas
+escolhas.
+Há dois aspectos. Um é o que as pessoas
+podem fazer com os algoritmos como eles
+existem hoje. Podem ensinar ao Google
+aquilo de que gostam e ter resultados de
+pesquisa que são de facto aqueles que
+queriam. A longo prazo o aspecto mais
+
+importante é exigirmos que a caixa preta se
+abra. Não precisamos de ter acesso ao
+motor do carro. Mas precisamos de ter
+acesso ao volante e aos pedais.
+Acha que isso é possível?
+A partir do momento em que há exigência
+por parte das pessoas, o Google e a Amazon
+fazem isso, ou aparecem outras empresas
+que fazem. O papel mais importante é do
+indivíduo, do consumidor e cidadão.
+Hoje há outra grande balança de poder que está muito
+desequilibrada: é o poder do conhecimento.
+Sugere a criação de sindicatos de
+dados para lidar com essas
+empresas. É uma sugestão concreta
+ou uma provocação?
+Concreta. Precisamos de ter modelos
+nossos que sejam o mais inteligentes e o
+mais completos possível. O ideal é ter um
+modelo meu que me conhece tão bem
+como o meu melhor amigo. Este modelo
+faz o meu papel no ciberespaço: lê esses
+dez milhões de livros para escolher os dez
+de que eu vou gostar. Quero que esse
+modelo exista, mas não quero que esteja
+sob o controlo do Google ou do Facebook.
+Uma das opções que ponho é o banco de
+dados: algo que é para os nossos dados o
+que o banco é para o dinheiro. O banco não
+foge com o nosso dinheiro. Outra
+alternativa é algo como um sindicato de
+dados. Os sindicatos surgiram para
+equilibrar a balança de poder entre os
+patrões e os empregados. Hoje há outra
+grande balança de poder que está muito
+desequilibrada: é o poder do
+conhecimento. O Google e o Facebook cada
+vez sabem mais e nós continuamos a não
+saber muito sobre eles.
+Como se chega a um sindicato
+desses? Os sindicatos de
+trabalhadores foram criados porque
+o desequilíbrio se reflectia de forma
+palpável na vida dos trabalhadores.
+Os algoritmos tornam a vida mais
+confortável. E as pessoas nem sequer
+lêem as políticas de privacidade.
+É preciso as coisas tornarem-se mais
+palpáveis e os especialistas da área devem
+ajudar as pessoas a fazerem essa tomada de
+consciência. Por outro lado, mais cedo ou
+mais tarde, vão acontecer coisas más e as
+pessoas vão dar-se conta de que algo está
+errado.
+No livro apresenta a aprendizagem
+automática como uma área especial,
+apesar de haver outras áreas de
+inteligência artificial. Porquê?
+A era da informação tinha inicialmente
+algoritmos programados por seres
+humanos. Se quisesse que um algoritmo
+fizesse diagnóstico médico tinha de
+explicar ponto a ponto como o fazer. Isso já
+nos deu grandes coisas. Os
+programadores passaram a ser o factor
+limitador. Com a aprendizagem, os
+
+sabemos como programar. Um carro sem
+condutor: sabemos guiar, mas não
+sabemos como o programar. Ele aprende
+observando o vídeo da estrada e as acções
+das pessoas no volante e nos pedais.
+Este conceito do algoritmo-mestre é
+o de que, com uma quantidade
+suficiente de dados, o computador
+aprende o que quer que seja. Mas
+como é que vamos ensinar ética a um
+carro ou a uma arma autónoma? Que
+tipo de dados podemos dar para uma
+máquina aprender a tomar decisões
+morais?
+A primeira coisa é dizermos ao carro quais
+são as regras. Pode ser útil, mas não chega.
+A outra hipótese é a da aprendizagem
+automática: os carros, ou outros robôs,
+aprenderem observando as pessoas.
+Observam se as pessoas num caso
+atropelam e se noutro caso caem de uma
+ponte. Foi feito um inquérito a perguntar
+se um carro autónomo deve atirar-se para
+o rio para salvar pessoas. As pessoas
+disseram que sim. Mas se a pessoa estiver
+dentro carro, aí diz que não. Se os
+algoritmos quiserem aprender connosco
+vão ficar bastante confusos, porque nós
+próprios não somos coerentes no nosso
+comportamento ético. A aprendizagem
+automática vai-nos obrigar a enfrentar
+essas questões. No caso dos carros,
+
+pessoas. Mas é possível que as pessoas
+depois vão comprar software pirata e
+programem o carro de outra forma.
+Muitas das vezes que fala do
+algoritmo-mestre parece referir-se
+mais à descoberta de algo que já
+existe do que a uma invenção.
+Na ciência em geral fala-se de descobertas:
+descobrimos as leis da física. Na
+tecnologia, fala-se de invenção: inventámos
+o computador. Por um lado, podemos
+inventar algoritmos, mas por outro lado
+estamos a descobrir leis da aprendizagem,
+a que os seres humanos também
+obedecem. Os algoritmos de aprendizagem
+que temos hoje já são algoritmos-mestres
+no sentido em que o mesmo algoritmo
+serve para coisas diferentes, ao contrário
+dos algoritmos tradicionais: o algoritmo
+que joga xadrez só joga xadrez. Mas os
+diferentes paradigmas de aprendizagem,
+baseados na evolução ou no cérebro, só são
+capazes de aprender algumas coisas. O que
+precisamos para um algoritmo-mestre é
+que seja capaz de aprender todas essas
+coisas diferentes.
+Isso significa criar algoritmos que
+aprendem e que têm processos que
+nós não sabemos bem quais são.
+Apenas vemos o resultado. Não é um
+problema?
+É a diferença entre a tecnologia actual e a
+de há décadas. Antes compreendíamos
+completamente a tecnologia. Hoje um
+carro está cheio de computadores. E não há
+
+provavelmente o que vai haver são leis, que
+dizem, por exemplo, que o carro deve
+sacrificar o condutor se isso salvar mais
+
+computadores programam-se a si próprios.
+Há coisas que queremos fazer que nem
+
+nenhuma pessoa no fabricante que saiba
+como funcionam todas as partes de um
+carro. Como o algoritmo é aprendido
+[resulta de aprendizagem], estamos apenas
+a julgar pelo exterior se ele está a fazer as
+coisas certas ou não. Sempre vivemos num
+mundo que só compreendemos
+parcialmente. Mas a tecnologia está sob
+nosso controlo. Pelo facto de não serem
+completamente compreensíveis não
+significa que não possam ser extensões
+nossas.
+Mas há riscos de danos colaterais,
+mesmo que o algoritmo esteja a fazer
+bem o que é suposto fazer.
+Recentemente, o Facebook sugeria
+publicidade dirigida para grupos
+anti-semitas. Qual é a dimensão
+deste risco?
+É grande. Aparece em muitas áreas
+diferentes. O problema que o Facebook
+ilustra bem é que os algoritmos estão a
+usar inteligência para atingir certos
+objectivos. Mas esses algoritmos não
+compreendem uma série de outras coisas
+importantes. Não têm senso comum. Pode
+dar resultados maus.
+Este algoritmo-mestre não
+conheceria também tudo do mundo.
+Mesmo uma solução destas não está
+isenta de efeitos nocivos colaterais.
+Não, por várias razões. O algoritmo-mestre
+é apenas um algoritmo de aprendizagem.
+Depende dos dados. Se lhe dermos dados
+que não prestam, não faz milagres. Mas
+
+além dos dados, recebe os objectivos. Se o
+objectivo for mau, o algoritmo vai fazer
+mal. O objectivo do Facebook é maximizar
+o envolvimento das pessoas. Quando o
+algoritmo está a maximizar esse objectivo,
+não está a maximizar as notícias
+verdadeiras, portanto escolhe as notícias
+más, que muitas vezes as pessoas lêem e
+comentam mais.
+O algoritmo-mestre, se o atingirmos, é demasiado
+poderoso e demasiado importante para estar nas mãos
+de uma empresa.
+Pedro Domingos, investigador
+Os algoritmos hoje são coisas
+protegidas. Chegando ao algoritmomestre,
+temos pelo menos dois
+cenários: ou alguém o disponibiliza
+livremente, ou fica fechado numa
+empresa. Este segundo cenário seria
+preocupante?
+Seria. O algoritmo-mestre, se o atingirmos,
+é demasiado poderoso e demasiado
+importante para estar nas mãos de uma
+empresa. Na informática as coisas não são
+muito patenteáveis. Há algoritmos que
+foram patentados por empresas, mas é
+possível fazer-se uma variação que já não
+está coberta pela patente. E há uma
+tradição muito importante de software
+open source.
+Como é que um especialista vê o
+circo mediático em torno dos riscos
+da inteligência artificial?
+
+Há riscos verdadeiros e riscos imaginários.
+O circo maior é em torno dos riscos
+imaginários e distrai as pessoas dos
+verdadeiros. Um dos imaginários é esta
+ideia de que as máquinas se revoltam e
+tentam controlar o mundo. Outro risco
+muito maior é o risco das máquinas
+incompetentes: máquinas que tomam
+decisões erradas por não perceberem
+melhor. Ironicamente, o grande risco da
+inteligência artificial não são máquinas
+demasiado inteligentes, são máquinas
+demasiado estúpidas. As máquinas já
+tomam uma série de decisões muito
+importantes: que candidatos a empregos
+são entrevistados por empresas, quem são
+os potenciais criminosos ou terroristas,
+quem se recomenda a outra pessoa para
+que saiam juntos.
+Descreve no livro um cenário em que
+há um modelo virtual das pessoas,
+que vai à entrevista de emprego por
+elas. Esse modelo não pode também
+trabalhar pela pessoa?
+Se o modelo pode fazer tudo, as pessoas
+podem ir de férias. É uma possibilidade no
+futuro e a questão será então como
+distribuir a riqueza. Mas a curto e médio
+prazo, os modelos são uma versão muito
+imperfeita das pessoas.
+A longo prazo acha que vamos todos
+de férias?
+A muito longo prazo – décadas ou talvez
+centenas de anos – é possível que a
+inteligência artificial e os robôs sejam
+
+capazes de fazer tudo melhor do que os
+seres humanos. Aí, os seres humanos vão
+usufruir do mundo tecnológico da mesma
+forma que usufruíam dos frutos das
+árvores. Mas como é que esses frutos são
+divididos? São divididos por quem controla
+as empresas ou distribuídos por todos nós?
+Enquanto a maioria das pessoas quiser que
+os frutos sejam distribuídos, eles serão
+distribuídos. É por isso que, a longo prazo,
+o nosso voto é mais importante do que o
+nosso emprego.
+Estas discussões sobre inteligência
+artificial desembocam quase sempre
+em questões muito fundamentais.
+Desde a desigualdade até questões
+sobre o que é ser humano. Isso faz
+com que as pessoas da área se sintam
+como os programadores do futuro?
+Descreve no livro os programadores
+como deuses menores.
+A inteligência artificial é diferente de
+muitas outras áreas da tecnologia
+precisamente porque é muito fundamental.
+Uma coisa é automatizar o trabalho
+manual, outra coisa é automatizar a
+inteligência, que é aquilo de mais profundo
+e mais único que temos. A inteligência
+artificial dá-nos todos estes poderes. Mas
+não são os programadores nem os
+especialistas que vão decidir como estes
+poderes vão ser utilizados. Decisões éticas
+têm de ser tomadas pelos indivíduos, pela
+sociedade.
+
